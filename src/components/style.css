@@ -1,0 +1,17 @@
+.glass {
+    width: 55%;
+    left: 22.7%;
+    top: 25%;
+    opacity: 0.5;
+}
+.glass__model {
+    width: 480px;
+    height: 585px;
+    background-image: url('../../public/glassesImage/model.jpg');
+}
+
+.glass__detail {
+    bottom: 0;
+    background-color: orange;
+    opacity: 0.6;
+}
